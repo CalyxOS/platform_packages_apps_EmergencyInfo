@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3e3ef33f_0c928e27",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-05-21T16:53:05Z",
+      "side": 1,
+      "message": "Here it starts a 5 second countdown timer to place an SOS call.",
+      "revId": "19933ed6d40485b7e535165a3486a9f72c8b9ec7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
