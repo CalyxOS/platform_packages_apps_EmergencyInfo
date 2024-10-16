@@ -52,6 +52,24 @@
       "parentUuid": "c18c8412_eccb2c14",
       "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03addfc5_bb1a4ea2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-10-16T13:16:21Z",
+      "side": 1,
+      "message": "That is truly scary, if they can\u0027t even be bothered to get emergency features fixed even when patches are submitted.",
+      "parentUuid": "e03717b2_ac6b1edc",
+      "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
