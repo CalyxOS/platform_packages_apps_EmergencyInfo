@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b982e0ce_9fccf828",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-10-16T12:54:15Z",
+      "side": 1,
+      "message": "Can confirm that this resolves the off-screen issues for the emergency information edit screen and the medical information edit screen (part of calyxos#2764).",
+      "revId": "848cb2992573e461ca4dea2af133eba8c4196e09",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
