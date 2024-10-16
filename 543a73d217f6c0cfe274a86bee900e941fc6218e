@@ -34,6 +34,24 @@
       "parentUuid": "c18c8412_eccb2c14",
       "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e03717b2_ac6b1edc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-10-16T13:14:51Z",
+      "side": 1,
+      "message": "Yes, although they don\u0027t seem to care that much since they have their own closed source EmergencyInfoGoogleNoUi app, it\u0027s been broken on AOSP for about a year without the first commit in the series",
+      "parentUuid": "c18c8412_eccb2c14",
+      "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
