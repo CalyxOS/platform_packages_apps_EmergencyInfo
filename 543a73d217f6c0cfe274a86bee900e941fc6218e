@@ -16,6 +16,24 @@
       "message": "Maybe send to AOSP as well",
       "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ef5e446_a1bf784e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-10-16T13:12:01Z",
+      "side": 1,
+      "message": "I [commented on the existing AOSP change](https://android-review.googlesource.com/c/platform/packages/apps/EmergencyInfo/+/3187792/comments/e07eb139_b751558b) (which they haven\u0027t merged yet) suggesting that they do this in that one. That way there don\u0027t need to be two separate changes. Here for CalyxOS I kept it separate though, since I don\u0027t know if they will.",
+      "parentUuid": "c18c8412_eccb2c14",
+      "revId": "543a73d217f6c0cfe274a86bee900e941fc6218e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
