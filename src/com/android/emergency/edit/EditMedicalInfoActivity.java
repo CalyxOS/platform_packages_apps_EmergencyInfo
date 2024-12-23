@@ -18,9 +18,6 @@ package com.android.emergency.edit;
 import android.app.Activity;
 import android.app.Fragment;
 import android.os.Bundle;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 import com.android.internal.annotations.VisibleForTesting;
 
@@ -31,16 +28,6 @@ public class EditMedicalInfoActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-        ViewCompat.setOnApplyWindowInsetsListener(this.findViewById(android.R.id.content),
-        (v, windowInsets) -> {
-            Insets insets = windowInsets.getInsets(
-                    WindowInsetsCompat.Type.systemBars() | WindowInsetsCompat.Type.ime());
-            v.setPadding(insets.left, insets.top, insets.right, insets.bottom);
-
-            return WindowInsetsCompat.CONSUMED;
-        });
-
         // We only add a new EditInfoFragment if no fragment is restored.
         Fragment fragment = getFragmentManager().findFragmentById(android.R.id.content);
         if (fragment == null) {
